@@ -38,7 +38,7 @@ if (isset($_POST["regis"])) {
                     <h3>CloudPost</h3>
                 </span>
                 <div>
-                    <a href="index.html" class="hr"><button class="btn btn-dark btn-outline-light me-2" type="button">Back</button></a>
+                    <a href="index.php" class="hr"><button class="btn btn-dark btn-outline-light me-2" type="button">Back</button></a>
                 </div>
             </div>
         </nav>
